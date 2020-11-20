@@ -1,0 +1,4 @@
+C:\Users\Daniel\source\repos\dom8\dom8\obj\Debug\dom8.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\dom8\dom8\obj\Debug\dom8.Form1.resources
+C:\Users\Daniel\source\repos\dom8\dom8\obj\Debug\dom8.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\dom8\dom8\obj\Debug\dom8.csproj.CoreCompileInputs.cache
